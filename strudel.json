@@ -1,5 +1,27 @@
 {
   "_base": "https://raw.githubusercontent.com/gabe-swp/strudelsamples/main/",
+  
+  "aqua_dolphin": "aqua/dolphin.wav",
+  "aqua_splash": "aqua/splash.wav",
+  "aqua_drip": "aqua/two_drip.wav",
+  "aqua_underwater": "aqua/underwater.flac",
+  "aqua_pour": "aqua/water_pour.wav",
+  "aqua_whale": "aqua/whale.wav",
+  
+  "ayvers_bygene": "ayvers/bygenewolff.wav",
+  "ayvers_fourside": "ayvers/foursidespercasette.wav",
+  "ayvers_narra": "ayvers/narra.wav",
+  "ayvers_side1": "ayvers/sideOne.wav",
+  "ayvers_soft": "ayvers/soft.wav",
+  "ayvers_fine": "ayvers/yesveryfine.wav",
+  "ayvers_garment": "ayvers/yourgarment.wav",
+  
+  "bass_reese": "bass/reese.wav",
+  
+  "imogen_haa": "imogen/Haa.wav",
+  "imogen_better": "imogen/betterthanthis.wav",
+  "imogen_vocal": "imogen/heavvocalisations.wav",
+  
   "industrial_brush": "industrial/brushnoise.wav",
   "industrial_bump": "industrial/BumpSpin.wav",
   "industrial_slam": "industrial/DrumSlam.wav",
@@ -7,9 +29,16 @@
   "industrial_mech": "industrial/MechanicalMove.wav",
   "industrial_beep": "industrial/TruckBeep.wav",
   "industrial_knock": [
-    "industrial/woodknocLow.wav",
+    "industrial/woodKnocLow.wav",
     "industrial/woodknock high.wav"
-  ]
+  ],
+  
+  "reggae_skank": "reggae/nylon-dminor-skank.wav",
+  "reggae_grow": "reggae/weedgrow.mp3",
+  
+  "trance_drum": "trance/Drums/148bpmclassic.wav",
+  "trance_alien": "trance/Vibes/alieninvasion.wav",
+  "trance_mellow": "trance/Vibes/mellow-burst.wav",
+  "trance_vocal": "trance/Vocal/time_away.mp3"
 }
-
 
