@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/gabe-swp/strudalsamples/main/",
+  "_base": "https://raw.githubusercontent.com/gabe-swp/strudelsamples/main/",
   "industrial_brush": "industrial/brushnoise.wav",
   "industrial_bump": "industrial/BumpSpin.wav",
   "industrial_slam": "industrial/DrumSlam.wav",
@@ -11,4 +11,5 @@
     "industrial/woodknock high.wav"
   ]
 }
+
 
