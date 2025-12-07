@@ -18,6 +18,26 @@
   
   "bass_reese": "bass/reese.wav",
   
+  "brutalist_tempo": "brutalist/brutalist_am_temp_ero.wav",
+  "brutalist_station": "brutalist/station_amb.wav",
+  
+  "enya_aca": [
+    "enya_aca/enya_aca_1.wav",
+    "enya_aca/enya_aca_2.wav"
+  ],
+  "enya_chord": [
+    "enya_chord/enya_chord_1.wav",
+    "enya_chord/enya_chord_2.wav"
+  ],
+  "enya_single": "enya_chord/enya_single_chord.wav",
+  "enya_high": "enya_high_note/enya_high_note.wav",
+  "enya_ooh": "enya_lyrics/enyaooh.wav",
+  "enya_true": "enya_lyrics/enyatrue.wav",
+  "enya_short": "enya_short/enya_short_1.wav",
+  
+  "factory_ampa": "factory/factory_ampa.wav",
+  "factory_hla": "factory/hla_ampa.wav",
+  
   "imogen_haa": "imogen/Haa.wav",
   "imogen_better": "imogen/betterthanthis.wav",
   "imogen_vocal": "imogen/heapvocalisations.wav",
@@ -33,8 +53,19 @@
     "industrial/woodknock high.wav"
   ],
   
+  "nutopia": [
+    "nutopia/nutopia1_ampa.wav",
+    "nutopia/nutopia2_ampa.wav"
+  ],
+  
   "reggae_skank": "reggae/nylon-dminor-skank.wav",
   "reggae_grow": "reggae/weedgrow.mp3",
+  
+  "runningman_synth": "runningman/Synthtune1.wav",
+  "runningman_rerun": "runningman/rerunrise.wav",
+  "runningman_go": "runningman/runningGo.wav",
+  "runningman_nofurther": "runningman/runningmanwithoutfurtherado.wav",
+  "runningman_rise": "runningman/runningrise.wav",
   
   "trance_drum": "trance/Drums/148bpmclassic.wav",
   "trance_alien": "trance/Vibes/alieninvasion.wav",
