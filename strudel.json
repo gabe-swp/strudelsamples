@@ -1,0 +1,74 @@
+{
+  "_base": "https://raw.githubusercontent.com/gabe-swp/strudelsamples/main/",
+  
+  "aqua_dolphin": "aqua/dolphin.wav",
+  "aqua_splash": "aqua/splash.wav",
+  "aqua_drip": "aqua/two_drip.wav",
+  "aqua_underwater": "aqua/underwater.flac",
+  "aqua_pour": "aqua/water_pour.wav",
+  "aqua_whale": "aqua/whale.wav",
+  
+  "ayvers_bygene": "ayvers/bygenewolff.wav",
+  "ayvers_fourside": "ayvers/foursidespercasette.wav",
+  "ayvers_narra": "ayvers/narra.wav",
+  "ayvers_side1": "ayvers/sideOne.wav",
+  "ayvers_soft": "ayvers/sott.wav",
+  "ayvers_fine": "ayvers/yesveryfine.wav",
+  "ayvers_garment": "ayvers/yourgarment.wav",
+  
+  "bass_reese": "bass/reese.wav",
+  
+  "brutalist_tempo": "brutalist/brutalist_am_temp_ero.wav",
+  "brutalist_station": "brutalist/station_amb.wav",
+  
+  "enya_aca": [
+    "enya_aca/enya_aca_1.wav",
+    "enya_aca/enya_aca_2.wav"
+  ],
+  "enya_chord": [
+    "enya_chord/enya_chord_1.wav",
+    "enya_chord/enya_chord_2.wav"
+  ],
+  "enya_single": "enya_chord/enya_single_chord.wav",
+  "enya_high": "enya_high_note/enya_high_note.wav",
+  "enya_ooh": "enya_lyrics/enyaooh.wav",
+  "enya_true": "enya_lyrics/enyatrue.wav",
+  "enya_short": "enya_short/enya_short_1.wav",
+  
+  "factory_ampa": "factory/factory_ampa.wav",
+  "factory_hla": "factory/hla_ampa.wav",
+  
+  "imogen_haa": "imogen/Haa.wav",
+  "imogen_better": "imogen/betterthanthis.wav",
+  "imogen_vocal": "imogen/heapvocalisations.wav",
+  
+  "industrial_brush": "industrial/brushnoise.wav",
+  "industrial_bump": "industrial/BumpSpin.wav",
+  "industrial_slam": "industrial/DrumSlam.wav",
+  "industrial_chord": "industrial/industrialChord.wav",
+  "industrial_mech": "industrial/MechanicalMove.wav",
+  "industrial_beep": "industrial/TruckBeep.wav",
+  "industrial_knock": [
+    "industrial/woodKnocLow.wav",
+    "industrial/woodknock high.wav"
+  ],
+  
+  "nutopia": [
+    "nutopia/nutopia1_ampa.wav",
+    "nutopia/nutopia2_ampa.wav"
+  ],
+  
+  "reggae_skank": "reggae/nylon-dminor-skank.wav",
+  "reggae_grow": "reggae/weedgrow.mp3",
+  
+  "runningman_synth": "runningman/Synthtune1.wav",
+  "runningman_rerun": "runningman/rerunrise.wav",
+  "runningman_go": "runningman/runningGo.wav",
+  "runningman_nofurther": "runningman/runningmanwithoutfurtherado.wav",
+  "runningman_rise": "runningman/runningrise.wav",
+  
+  "trance_drum": "trance/Drums/148bpmclassic.wav",
+  "trance_alien": "trance/Vibes/alieninvasion.wav",
+  "trance_mellow": "trance/Vibes/mellow-burst.wav",
+  "trance_vocal": "trance/Vocal/time_away.mp3"
+}
